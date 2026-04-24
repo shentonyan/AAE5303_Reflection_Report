@@ -1,8 +1,11 @@
 # Post-Lesson Reflection Report: AAE 5303 Robust Control Technology
 
 **Student Name:** YAN SHENTAO
-**Student ID:** 25132971 G 
+
+**Student ID:** 25132971G 
+
 **Group Number:** ALateFix
+
 **Date:** 25/04/2026
 
 ---
