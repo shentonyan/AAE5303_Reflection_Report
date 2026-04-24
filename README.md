@@ -76,14 +76,14 @@ AI played the role of a **"Co-Pilot and Sentinel"** in my project.
 
 ### 7.1 Successful Training Command (Anti-Explosion Config)
 ```bash
-PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True python /home/daism/unet_minimal/amtown_pipeline.py \
+PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True python /home/unet_minimal/amtown_pipeline.py \
   --mode train \
   --epochs 100 \
   --batch-size 8 \
   --accum-steps 16 \
   --scale 0.25 \
   --lr 5e-5 \
-  --output-dir /home/daism/unet_minimal/amtown_outputs_65ep_fast
+  --output-dir /home/unet_minimal/amtown_outputs_65ep_fast
 ```
 
 ### 7.2 Log Snapshot (Validation of Growth)
